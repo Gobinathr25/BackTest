@@ -39,7 +39,7 @@ con.connect(function (err) {
     });
   }
 
-  console.log("Connected!");
+  console.log(" Server Connected!");
 });
 
 // Printing data
